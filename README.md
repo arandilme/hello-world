@@ -1,5 +1,5 @@
 # hello-world
-GitNub introductory repository
+GitHub introductory repository
 
 Hello world!
 
